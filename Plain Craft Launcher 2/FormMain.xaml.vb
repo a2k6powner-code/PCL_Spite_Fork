@@ -449,7 +449,7 @@ Public Class FormMain
             Telemetry("启动")
             '开源版本提示
             If VersionBranchMain = "OpenSource" Then
-                MyMsgBox($"该版本中无法使用以下特性：{vbCrLf}- CurseForge API 调用：需要自行申请 API Key，然后添加到 ModSecret.vb 的开头{vbCrLf}- 正版登录：需要自行向微软申请 Client ID，然后添加到 ModSecret.vb 的开头{vbCrLf}- 更新与联网通知：避免滥用隐患{vbCrLf}- 主题切换：这是需要赞助解锁的纪念性质的功能，别让赞助者太伤心啦……{vbCrLf}- 百宝箱：开发早期往里面塞了些开发工具，整理起来太麻烦了……", "开源版本说明")
+                MyMsgBox($"PCL Unbound Edition 社区分支调整：{vbCrLf}- 恢复原版 Minecraft 下载功能{vbCrLf}- 配色改为橙色 #DD4B1F、浅灰 #CECDCD，保留白色{vbCrLf}- 标题栏 Logo 改为文字标识{vbCrLf}- 启动器自动更新功能未启用{vbCrLf}{vbCrLf}正版登录与 CurseForge 功能需要自行配置对应 API 凭据。", "PCL Unbound Edition")
             End If
         End Sub, "初始化", ThreadPriority.Lowest)
 
@@ -753,8 +753,8 @@ Public Class FormMain
                     FrmSetupUI.PanLogoChange.Visibility = Visibility.Collapsed
                 End If
             Case 1 '默认
-                ShapeTitleLogo.Visibility = Visibility.Visible
-                LabTitleLogo.Visibility = Visibility.Collapsed
+                ShapeTitleLogo.Visibility = Visibility.Collapsed
+                LabTitleLogo.Visibility = Visibility.Visible
                 ImageTitleLogo.Visibility = Visibility.Collapsed
                 If Not IsNothing(FrmSetupUI) Then
                     FrmSetupUI.CheckLogoLeft.Visibility = Visibility.Collapsed
@@ -788,7 +788,7 @@ Public Class FormMain
         End Select
         FrmSetupUI?.CardLogo.TriggerForceResize()
         '标题栏文本
-        LabTitleLogo.Text = Settings.Get(Of String)("UiLogoText")
+        LabTitleLogo.Text = If(String.IsNullOrWhiteSpace(Settings.Get(Of String)("UiLogoText")), "PCL Unbound Edition", Settings.Get(Of String)("UiLogoText"))
         '标题栏文本是否居左
         PanTitleMain.ColumnDefinitions(0).Width = New GridLength(If(Settings.Get(Of Boolean)("UiLogoLeft") AndAlso Settings.Get(Of Integer)("UiLogoType") = 0, 0, 1), GridUnitType.Star)
     End Sub

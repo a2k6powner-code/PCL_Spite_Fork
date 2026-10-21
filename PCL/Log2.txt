@@ -1,0 +1,94 @@
+08:53:27.544 I <4 · Logger> [Logger] PclLogger 日志初始化结束
+08:53:27.560 I [Application] 程序版本：正式版 2.99.0.0 (413)
+08:53:27.560 I [Application] 识别码：75D1-EB3F-6701-C208
+08:53:27.560 I [Application] 程序路径：D:\Backup\Downloads\github\PCL_Spite_Fork\Plain Craft Launcher 2.exe
+08:53:27.560 I [Application] 系统编码：gb2312 (936, GBK=True)
+08:53:27.561 I [Application] 管理员权限：False
+08:53:27.561 I [Application] 第一阶段加载用时：37 ms
+08:53:27.668 I [FormMain] 全新的 PCL，使用新的版本隔离默认值
+08:53:27.676 I [ModSecret] 刷新主题：0
+08:53:27.709 I [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+08:53:27.709 I [FormMain] 第二阶段加载用时：142 ms
+08:53:27.714 I <5 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+08:53:27.810 I [FormMain] 从设置更新背景图片与标题栏样式
+08:53:27.834 I [FormMain] 窗口已置顶，位置：(830, 421), 900 x 550
+08:53:27.837 I [FormMain] 第三阶段加载用时：30 ms
+08:53:27.838 I <7 · Animation> [ModAnimation] 动画线程开始
+08:53:27.849 I <11 · Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：D:\Backup\Downloads\github\PCL_Spite_Fork\.minecraft\
+08:53:27.849 I <11 · Version Check> [PageLaunchLeft] 当前选择的 Minecraft 版本无效：null
+08:53:27.855 I <11 · Version Check> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Loading
+08:53:27.865 I <12 · L/Minecraft Instance List> [ModMinecraft] 当前选择的 Minecraft 版本：无
+08:53:27.865 I <12 · L/Minecraft Instance List> [ModMinecraft] 未找到可用 Minecraft 版本
+08:53:27.865 I <12 · L/Minecraft Instance List> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Finished
+08:53:27.874 I <11 · Version Check> [PageLaunchLeft] 无可用 Minecraft 版本
+08:53:27.884 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Loading
+08:53:27.887 I <14 · L/Loader Skin Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Finished
+08:53:27.914 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+08:53:27.915 I [PageLaunchLeft] 启动按钮：无 Minecraft 版本，要求下载
+08:53:27.917 I [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Loading
+08:53:27.918 I <15 · L/登录> [ModLaunch] 登录加载已开始
+08:53:27.920 I <15 · L/登录> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Loading
+08:53:27.920 I <16 · L/Loader Login Legacy> [ModLaunch] 登录方式：离线（Dev）
+08:53:27.921 I <16 · L/Loader Login Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Finished
+08:53:27.928 I [MySkin] 载入头像成功：Loader Skin Legacy
+08:53:27.935 I <15 · L/登录> [ModLaunch] 登录加载已结束
+08:53:27.935 I <15 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Finished
+08:53:27.992 I <9 · 初始化> [ModJava] 共有 2 个可用的 Java：
+08:53:27.992 I <9 · 初始化> [ModJava] - Java 17 (17.0.12.0)：C:\Users\*************\.jdks\graalvm-jdk-17.0.12\bin\
+08:53:27.992 I <9 · 初始化> [ModJava] - Java 17 (17.0.9.0)：C:\Users\*************\.jdks\graalvm-ce-17.0.9\bin\
+08:53:28.108 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+08:53:28.110 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Loading
+08:53:28.111 I <19 · TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+08:53:28.111 I <19 · TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+08:53:28.111 I <20 · Telemetry> [ModMain] 匿名数据上报：启动
+08:53:28.111 I <17 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+08:53:28.117 I <18 · L/PCL 配置更新> [ModSecret] 已读取本地缓存的配置：38
+08:53:28.117 I <18 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+08:53:28.246 I <18 · L/PCL 配置更新> [ModSecret] 本地公告编号：230，服务器公告：230|414|413|6|38，无需更新
+08:53:28.248 I <18 · L/PCL 配置更新> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Finished
+08:53:28.556 I [FormMain] DPI：96，系统版本：Microsoft Windows NT 10.0.22631.0，PCL 位置：D:\Backup\Downloads\github\PCL_Spite_Fork\Plain Craft Launcher 2.exe
+08:53:29.346 I <17 · L/DlClientList Mojang> [ModDownload] Mojang 官方源加载耗时：1235ms，可优先使用官方源
+08:53:29.347 I <17 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+08:54:30.832 I [MyRadioButton] 按下单选按钮：下载
+08:54:30.905 I <55 · ForgeRecommendedRefresh> [ModDownloadLib] 刷新 Forge 推荐版本缓存开始
+08:54:30.905 I <55 · ForgeRecommendedRefresh> [ModNet] 发起网络请求（GET，https://bmclapi2.bangbang93.com/forge/promos），最大超时 10000
+08:54:30.905 I [ModLoader] 加载器 LoaderTask`2 关闭下载 状态改变：Loading
+08:54:30.908 E <56 · L/关闭下载> [ModLoader] 加载器 LoaderTask`2 关闭下载 状态改变：Failed
+08:54:30.912 I [FormMain] 切换主要页面：Download, -1
+08:54:30.916 W <56 · L/关闭下载> [ModLoader] 加载线程 关闭下载 出错，已完成 100%：为遵守相关法律法规，PCL 暂时不再提供 MC 下载功能，非常抱歉 qwq……
+08:54:30.916 W <56 · L/关闭下载> [ModLoader]    在 PCL.PageDownloadInstall._Closure$__._Lambda$__3-0
+08:54:30.916 W <56 · L/关闭下载> [ModLoader]    在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0
+08:54:30.917 I <55 · ForgeRecommendedRefresh> [ModDownloadLib] 刷新 Forge 推荐版本缓存成功
+08:54:30.964 I [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Main 状态改变：Loading
+08:54:30.965 I [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Main 状态改变：Loading
+08:54:30.966 I [ModLoader] 加载器 LoaderTask`2 DlFabricList Main 状态改变：Loading
+08:54:30.967 I [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Main 状态改变：Loading
+08:54:30.969 I <57 · L/DlOptiFineList Main> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Official 状态改变：Loading
+08:54:30.970 I <58 · L/DlLiteLoaderList Main> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Official 状态改变：Loading
+08:54:30.970 I <59 · L/DlFabricList Main> [ModLoader] 加载器 LoaderTask`2 DlFabricList Official 状态改变：Loading
+08:54:30.971 I <63 · L/DlFabricList Official> [ModNet] 发起网络请求（GET，https://meta.fabricmc.net/v2/versions），最大超时 10000
+08:54:30.971 I <62 · L/DlLiteLoaderList Official> [ModNet] 发起网络请求（GET，https://dl.liteloader.com/versions/versions.json），最大超时 10000
+08:54:30.971 I <60 · L/DlNeoForgeList Main> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Official 状态改变：Loading
+08:54:30.972 I <61 · L/DlOptiFineList Official> [ModNet] 发起网络请求（GET，https://optifine.net/downloads），最大超时 10000
+08:54:30.972 I <67 · L/DlNeoForgeList Official> [ModNet] 发起网络请求（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge），最大超时 10000
+08:54:31.599 I [MyRadioButton] 按下单选按钮：启动
+08:54:31.600 I [FormMain] 切换主要页面：Launch, -1
+08:54:31.974 I <67 · L/DlNeoForgeList Official> [ModNet] 发起网络请求（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/forge），最大超时 10000
+08:54:32.050 I <62 · L/DlLiteLoaderList Official> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Official 状态改变：Finished
+08:54:32.055 I <58 · L/DlLiteLoaderList Main> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Main 状态改变：Finished
+08:54:32.300 I <67 · L/DlNeoForgeList Official> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Official 状态改变：Finished
+08:54:32.305 I <60 · L/DlNeoForgeList Main> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Main 状态改变：Finished
+08:54:32.524 I <63 · L/DlFabricList Official> [ModLoader] 加载器 LoaderTask`2 DlFabricList Official 状态改变：Finished
+08:54:32.534 I <61 · L/DlOptiFineList Official> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Official 状态改变：Finished
+08:54:32.538 I <57 · L/DlOptiFineList Main> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Main 状态改变：Finished
+08:54:32.538 I <59 · L/DlFabricList Main> [ModLoader] 加载器 LoaderTask`2 DlFabricList Main 状态改变：Finished
+08:55:13.983 I [ModAnimation] 两个动画帧间隔 123 ms
+08:57:55.820 I [FormMain] 收到置顶信息：397256
+08:57:55.824 I [FormMain] 窗口已置顶，位置：(830, 421), 900 x 550
+09:01:51.809 I [ModAnimation] 两个动画帧间隔 242 ms
+09:03:08.055 I [FormMain] 收到置顶信息：397256
+09:03:08.078 I [FormMain] 窗口已置顶，位置：(830, 421), 900 x 550
+09:03:11.472 I [MyRadioButton] 按下单选按钮：下载
+09:03:11.473 I [FormMain] 切换主要页面：Download, -1
+09:03:15.009 I [FormMain] 收到关闭指令
+09:03:15.231 I [FormMain] 程序已退出，返回值：Success
