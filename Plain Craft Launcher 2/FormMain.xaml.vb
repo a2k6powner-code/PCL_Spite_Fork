@@ -449,7 +449,7 @@ Public Class FormMain
             Telemetry("启动")
             '开源版本提示
             If VersionBranchMain = "OpenSource" Then
-                MyMsgBox($"PCL Unbound Edition 社区分支调整：{vbCrLf}- 恢复原版 Minecraft 下载功能{vbCrLf}- 配色改为橙色 #DD4B1F、浅灰 #CECDCD，保留白色{vbCrLf}- 标题栏 Logo 改为文字标识{vbCrLf}- 启动器自动更新功能未启用{vbCrLf}{vbCrLf}正版登录与 CurseForge 功能需要自行配置对应 API 凭据。", "PCL Unbound Edition")
+                MyMsgBox($"PCL Unbound Edition 社区分支调整：{vbCrLf}- 恢复原版 Minecraft 下载功能{vbCrLf}- 标题栏 Logo 改为文字标识{vbCrLf}- 启动器自动更新功能未启用{vbCrLf}{vbCrLf}正版登录与 CurseForge 功能需要自行配置对应 API 凭据。", "PCL Unbound Edition")
             End If
         End Sub, "初始化", ThreadPriority.Lowest)
 
