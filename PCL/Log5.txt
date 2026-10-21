@@ -1,0 +1,195 @@
+08:45:30.509 I <4 · Logger> [Logger] PclLogger 日志初始化结束
+08:45:30.547 I [Application] 程序版本：正式版 2.99.0.0 (413)
+08:45:30.547 I [Application] 识别码：75D1-EB3F-6701-C208
+08:45:30.547 I [Application] 程序路径：D:\Backup\Downloads\github\PCL_Spite_Fork\Plain Craft Launcher 2.exe
+08:45:30.547 I [Application] 系统编码：gb2312 (936, GBK=True)
+08:45:30.547 I [Application] 管理员权限：False
+08:45:30.547 I [Application] 第一阶段加载用时：72 ms
+08:45:30.694 I [FormMain] 版本号从 408 升高到 413
+08:45:30.697 I [FormMain] 最高版本号从 408 升高到 413
+08:45:30.706 I [FormMain] 全新的 PCL，使用新的版本隔离默认值
+08:45:30.715 I [ModSecret] 刷新主题：0
+08:45:30.756 I [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+08:45:30.756 I [FormMain] 第二阶段加载用时：196 ms
+08:45:30.761 I <6 · L/Minecraft Folder List> [ModMinecraft] 已创建 launcher_profiles.json：D:\Backup\Downloads\github\PCL_Spite_Fork\.minecraft\
+08:45:30.761 I <6 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+08:45:30.869 I [FormMain] 从设置更新背景图片与标题栏样式
+08:45:30.901 I [FormMain] 窗口已置顶，位置：(830, 421), 900 x 550
+08:45:30.904 I [FormMain] 第三阶段加载用时：38 ms
+08:45:30.904 I <8 · Animation> [ModAnimation] 动画线程开始
+08:45:30.914 I <12 · Version Check> [PageLaunchLeft] 没有已储存的 Minecraft 文件夹
+08:45:30.915 I <12 · Version Check> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+08:45:30.916 I <13 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+08:45:30.931 I <12 · Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：D:\Backup\Downloads\github\PCL_Spite_Fork\.minecraft\
+08:45:30.931 I <12 · Version Check> [PageLaunchLeft] 当前选择的 Minecraft 版本无效：null
+08:45:30.936 I <12 · Version Check> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Loading
+08:45:30.944 I <14 · L/Minecraft Instance List> [ModMinecraft] 当前选择的 Minecraft 版本：无
+08:45:30.945 I <14 · L/Minecraft Instance List> [ModMinecraft] 未找到可用 Minecraft 版本
+08:45:30.945 I <14 · L/Minecraft Instance List> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Finished
+08:45:30.947 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Loading
+08:45:30.950 I <16 · L/Loader Skin Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Finished
+08:45:30.959 I <12 · Version Check> [PageLaunchLeft] 无可用 Minecraft 版本
+08:45:30.989 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+08:45:30.993 I [ModBase] 将资源写入到文件：libwebp64 → D:\Backup\Downloads\github\PCL_Spite_Fork\PCL\libwebp.dll
+08:45:31.001 I [MySkin] 载入头像成功：Loader Skin Legacy
+08:45:31.011 I [PageLaunchLeft] 启动按钮：无 Minecraft 版本，要求下载
+08:45:31.015 I [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Loading
+08:45:31.016 I <17 · L/登录> [ModLaunch] 登录加载已开始
+08:45:31.017 I <17 · L/登录> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Loading
+08:45:31.017 I <18 · L/Loader Login Legacy> [ModLaunch] 登录方式：离线（Dev）
+08:45:31.018 I <18 · L/Loader Login Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Finished
+08:45:31.021 I [MyMsgText] 普通弹窗：PCL 已更新至正式版 2.99.0.0
+08:45:31.021 I [MyMsgText] · 删除：为遵守相关法律法规，PCL 暂时不再提供 MC 下载功能，非常抱歉 qwq……
+08:45:31.021 I [MyMsgText] · 新增：允许修改、添加、移除、更新已安装版本的各个组件，可从版本设置中进入
+08:45:31.021 I [MyMsgText] · 优化：启动游戏时允许按 Esc 取消
+08:45:31.021 I [MyMsgText] · 优化：允许复制主页的启动日志中的内容
+08:45:31.021 I [MyMsgText] · 19 项小调整与修改，修复了 26 个 Bug，详见完整更新日志
+08:45:31.037 I <17 · L/登录> [ModLaunch] 登录加载已结束
+08:45:31.037 I <17 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Finished
+08:45:31.068 I <10 · 初始化> [ModJava] 共有 2 个可用的 Java：
+08:45:31.068 I <10 · 初始化> [ModJava] - Java 17 (17.0.12.0)：C:\Users\*************\.jdks\graalvm-jdk-17.0.12\bin\
+08:45:31.068 I <10 · 初始化> [ModJava] - Java 17 (17.0.9.0)：C:\Users\*************\.jdks\graalvm-ce-17.0.9\bin\
+08:45:31.181 I <10 · 初始化> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+08:45:31.182 I <10 · 初始化> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Loading
+08:45:31.183 I <21 · TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+08:45:31.183 I <22 · Telemetry> [ModMain] 匿名数据上报：启动
+08:45:31.184 I <19 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+08:45:31.190 I <20 · L/PCL 配置更新> [ModSecret] 已读取本地缓存的配置：38
+08:45:31.190 I <20 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+08:45:31.249 I <21 · TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+08:45:31.346 I <20 · L/PCL 配置更新> [ModSecret] 本地公告编号：224，服务器公告：230|414|413|6|38，需更新
+08:45:31.346 I <20 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.json{CDN}），最大超时 10000
+08:45:31.362 I <20 · L/PCL 配置更新> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Finished
+08:45:31.632 I [FormMain] DPI：96，系统版本：Microsoft Windows NT 10.0.22631.0，PCL 位置：D:\Backup\Downloads\github\PCL_Spite_Fork\Plain Craft Launcher 2.exe
+08:45:32.359 I [MyButton] 按下按钮：确定
+08:45:32.360 I <5 · UpdateLog Output> [ModMain] 普通弹框返回：1
+08:45:32.786 I <19 · L/DlClientList Mojang> [ModDownload] Mojang 官方源加载耗时：1603ms，可优先使用官方源
+08:45:32.787 I <19 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+08:45:33.015 I [MyButton] 按下按钮：下载游戏
+08:45:33.102 I <22 · ForgeRecommendedRefresh> [ModDownloadLib] 刷新 Forge 推荐版本缓存开始
+08:45:33.102 I <22 · ForgeRecommendedRefresh> [ModNet] 发起网络请求（GET，https://bmclapi2.bangbang93.com/forge/promos），最大超时 10000
+08:45:33.102 I [ModLoader] 加载器 LoaderTask`2 关闭下载 状态改变：Loading
+08:45:33.105 E <21 · L/关闭下载> [ModLoader] 加载器 LoaderTask`2 关闭下载 状态改变：Failed
+08:45:33.109 I [FormMain] 切换主要页面：Download, OtherHelp
+08:45:33.120 W <21 · L/关闭下载> [ModLoader] 加载线程 关闭下载 出错，已完成 100%：为遵守相关法律法规，PCL 暂时不再提供 MC 下载功能，非常抱歉 qwq……
+08:45:33.120 W <21 · L/关闭下载> [ModLoader]    在 PCL.PageDownloadInstall._Closure$__._Lambda$__3-0
+08:45:33.120 W <21 · L/关闭下载> [ModLoader]    在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0
+08:45:33.149 I [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Main 状态改变：Loading
+08:45:33.150 I [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Main 状态改变：Loading
+08:45:33.151 I [ModLoader] 加载器 LoaderTask`2 DlFabricList Main 状态改变：Loading
+08:45:33.153 I [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Main 状态改变：Loading
+08:45:33.154 I <6 · L/DlOptiFineList Main> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Official 状态改变：Loading
+08:45:33.154 I <5 · L/DlLiteLoaderList Main> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Official 状态改变：Loading
+08:45:33.155 I <34 · L/DlFabricList Main> [ModLoader] 加载器 LoaderTask`2 DlFabricList Official 状态改变：Loading
+08:45:33.155 I <38 · L/DlFabricList Official> [ModNet] 发起网络请求（GET，https://meta.fabricmc.net/v2/versions），最大超时 10000
+08:45:33.157 I <37 · L/DlLiteLoaderList Official> [ModNet] 发起网络请求（GET，https://dl.liteloader.com/versions/versions.json），最大超时 10000
+08:45:33.157 I <35 · L/DlNeoForgeList Main> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Official 状态改变：Loading
+08:45:33.157 I <36 · L/DlOptiFineList Official> [ModNet] 发起网络请求（GET，https://optifine.net/downloads），最大超时 10000
+08:45:33.157 I <42 · L/DlNeoForgeList Official> [ModNet] 发起网络请求（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge），最大超时 10000
+08:45:33.247 I <22 · ForgeRecommendedRefresh> [ModDownloadLib] 刷新 Forge 推荐版本缓存成功
+08:45:34.232 I <42 · L/DlNeoForgeList Official> [ModNet] 发起网络请求（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/forge），最大超时 10000
+08:45:34.443 I <38 · L/DlFabricList Official> [ModLoader] 加载器 LoaderTask`2 DlFabricList Official 状态改变：Finished
+08:45:34.457 I <34 · L/DlFabricList Main> [ModLoader] 加载器 LoaderTask`2 DlFabricList Main 状态改变：Finished
+08:45:34.474 I <37 · L/DlLiteLoaderList Official> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Official 状态改变：Finished
+08:45:34.489 I <5 · L/DlLiteLoaderList Main> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Main 状态改变：Finished
+08:45:34.562 I <42 · L/DlNeoForgeList Official> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Official 状态改变：Finished
+08:45:34.565 I <35 · L/DlNeoForgeList Main> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Main 状态改变：Finished
+08:45:34.815 I <36 · L/DlOptiFineList Official> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Official 状态改变：Finished
+08:45:34.829 I <6 · L/DlOptiFineList Main> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Main 状态改变：Finished
+08:45:35.592 I [MyListItem] 按下单选列表项：Mod
+08:45:35.746 I [ModLoader] 加载器 LoaderTask`2 社区资源获取：Mod 状态改变：Loading
+08:45:35.758 I <39 · L/社区资源获取：Mod> [ResourceSearcher] 工程列表搜索原始文本：
+08:45:35.761 I <21 · CurseForge Search> [ResourceSearcher] 开始 CurseForge 搜索：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6
+08:45:35.763 I <22 · Modrinth Search> [ResourceSearcher] 开始 Modrinth 搜索：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]
+08:45:35.765 I <21 · CurseForge Search> [ModNet] 发起网络请求（GET，https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=6），最大超时 10000
+08:45:35.765 I <22 · Modrinth Search> [ModNet] 发起网络请求（GET，https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:mod"]]），最大超时 20000
+08:45:36.826 I <22 · Modrinth Search> [ResourceSearcher] 从 Modrinth 搜索到了 40 个工程（总计已获取 40 个，共 77493 个）
+08:45:37.462 I <21 · CurseForge Search> [ResourceSearcher] 从 CurseForge 搜索到了 40 个工程（总计已获取 40 个，共 10000 个）
+08:45:37.544 I <39 · L/社区资源获取：Mod> [ResourceProject] 将 Balm (balm) 与 Balm (balm) 认定为相似工程
+08:45:37.545 I <39 · L/社区资源获取：Mod> [ResourceProject] 将 Mouse Tweaks (mouse-tweaks) 与 Mouse Tweaks (mouse-tweaks) 认定为相似工程
+08:45:37.545 I <39 · L/社区资源获取：Mod> [ResourceProject] 将 Konkrete (konkrete) 与 Konkrete (konkrete) 认定为相似工程
+08:45:37.545 I <39 · L/社区资源获取：Mod> [ResourceProject] 将 Puzzles Lib (puzzles-lib) 与 Puzzles Lib (puzzles-lib) 认定为相似工程
+08:45:37.546 I <39 · L/社区资源获取：Mod> [ResourceProject] 将 Collective (collective) 与 Collective (collective) 认定为相似工程
+08:45:37.546 I <39 · L/社区资源获取：Mod> [ResourceProject] 将 FancyMenu (fancymenu) 与 FancyMenu (fancymenu) 认定为相似工程
+08:45:37.548 I <39 · L/社区资源获取：Mod> [ResourceProject] 将 Jade 🔍 (jade) 与 Jade 🔍 (jade) 认定为相似工程
+08:45:37.550 I <39 · L/社区资源获取：Mod> [ResourceProject] 将 Xaero's World Map (xaeros-world-map) 与 Xaero's World Map (xaeros-world-map) 认定为相似工程
+08:45:37.550 I <39 · L/社区资源获取：Mod> [ResourceProject] 将 Xaero's Minimap (xaeros-minimap) 与 Xaero's Minimap (xaeros-minimap) 认定为相似工程
+08:45:37.550 I <39 · L/社区资源获取：Mod> [ResourceProject] 将 Fabric API (fabric-api) 与 Fabric API (fabric-api) 认定为相似工程
+08:45:37.551 I <39 · L/社区资源获取：Mod> [ResourceSearcher] 去重、筛选后累计新增结果 70 个（目前已有结果 0 个）
+08:45:37.560 I [PageResource] 开始可视化 Mod 列表，已储藏 70 个结果，当前在第 1 页
+08:45:37.586 I <39 · L/社区资源获取：Mod> [ModLoader] 加载器 LoaderTask`2 社区资源获取：Mod 状态改变：Finished
+08:45:37.705 I <40 · MyImage PicLoader 342#> [ModLoader] 加载器 LoaderDownload 文件下载 343# 状态改变：Loading
+08:45:37.710 I <43 · L/下载 345> [ModNet] 开始清理下载缓存
+08:45:37.710 I <43 · L/下载 345> [ModNet] 下载缓存已清理
+08:45:37.711 I <47 · MyImage PicLoader 347#> [ModLoader] 加载器 LoaderDownload 文件下载 348# 状态改变：Loading
+08:45:37.715 I <49 · MyImage PicLoader 352#> [ModLoader] 加载器 LoaderDownload 文件下载 353# 状态改变：Loading
+08:45:37.720 I <51 · MyImage PicLoader 359#> [ModLoader] 加载器 LoaderDownload 文件下载 360# 状态改变：Loading
+08:45:37.754 I <53 · 下载 345/344/363#> [ModNet] 9185166975447273299.png：开始，起始点 0，https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp
+08:45:37.755 I <54 · 下载 355/354/364#> [ModNet] 3916600985087490655.png：开始，起始点 0，https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp
+08:45:37.756 I <56 · 下载 350/349/366#> [ModNet] 1075565124065881469.png：开始，起始点 0，https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp
+08:45:37.756 I <55 · 下载 362/361/365#> [ModNet] 5937853161247776333.png：开始，起始点 0，https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp
+08:45:38.528 I <54 · 下载 355/354/364#> [ModNet] 3916600985087490655.png：文件大小 13472（13.2 K）
+08:45:38.531 I <56 · 下载 350/349/366#> [ModNet] 1075565124065881469.png：文件大小 6754（6.6 K）
+08:45:38.531 I <55 · 下载 362/361/365#> [ModNet] 5937853161247776333.png：文件大小 4800（4.69 K）
+08:45:38.537 I <55 · 下载 362/361/365#> [ModNet] 5937853161247776333.png：已完成
+08:45:38.538 I <55 · 下载 362/361/365#> [ModLoader] 加载器 LoaderDownload 文件下载 360# 状态改变：Finished
+08:45:38.546 I <53 · 下载 345/344/363#> [ModNet] 9185166975447273299.png：文件大小 11452（11.2 K）
+08:45:38.552 I <56 · 下载 350/349/366#> [ModNet] 1075565124065881469.png：已完成
+08:45:38.552 I <56 · 下载 350/349/366#> [ModLoader] 加载器 LoaderDownload 文件下载 348# 状态改变：Finished
+08:45:38.572 I <53 · 下载 345/344/363#> [ModNet] 9185166975447273299.png：已完成
+08:45:38.572 I <53 · 下载 345/344/363#> [ModLoader] 加载器 LoaderDownload 文件下载 343# 状态改变：Finished
+08:45:38.590 I <54 · 下载 355/354/364#> [ModNet] 3916600985087490655.png：已完成
+08:45:38.590 I <54 · 下载 355/354/364#> [ModLoader] 加载器 LoaderDownload 文件下载 353# 状态改变：Finished
+08:45:39.038 I [MyListItem] 按下单选列表项：整合包
+08:45:39.186 I [ModLoader] 加载器 LoaderTask`2 社区资源获取：整合包 状态改变：Loading
+08:45:39.187 I <50 · L/社区资源获取：整合包> [ResourceSearcher] 工程列表搜索原始文本：
+08:45:39.187 I <49 · CurseForge Search> [ResourceSearcher] 开始 CurseForge 搜索：https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=4471
+08:45:39.187 I <49 · CurseForge Search> [ModNet] 发起网络请求（GET，https://api.curseforge.com/v1/mods/search?gameId=432&sortField=2&sortOrder=desc&pageSize=40&classId=4471），最大超时 10000
+08:45:39.187 I <48 · Modrinth Search> [ResourceSearcher] 开始 Modrinth 搜索：https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:modpack"]]
+08:45:39.187 I <48 · Modrinth Search> [ModNet] 发起网络请求（GET，https://api.modrinth.com/v2/search?limit=40&index=relevance&facets=[["project_type:modpack"]]），最大超时 20000
+08:45:39.653 I <48 · Modrinth Search> [ResourceSearcher] 从 Modrinth 搜索到了 40 个工程（总计已获取 40 个，共 18879 个）
+08:45:40.061 I <49 · CurseForge Search> [ResourceSearcher] 从 CurseForge 搜索到了 40 个工程（总计已获取 40 个，共 10000 个）
+08:45:40.061 I <50 · L/社区资源获取：整合包> [ResourceSearcher] 去重、筛选后累计新增结果 80 个（目前已有结果 0 个）
+08:45:40.061 I [PageResource] 开始可视化整合包列表，已储藏 80 个结果，当前在第 1 页
+08:45:40.091 I <50 · L/社区资源获取：整合包> [ModLoader] 加载器 LoaderTask`2 社区资源获取：整合包 状态改变：Finished
+08:45:40.493 I <62 · MyImage PicLoader 473#> [ModLoader] 加载器 LoaderDownload 文件下载 474# 状态改变：Loading
+08:45:40.498 I <64 · 下载 476/475/480#> [ModNet] 3205113799589399293.png：开始，起始点 0，https://cdn.modrinth.com/data/Jkb29YJU/581ecf54530972afb18a04660afd820f2f24f6c7.png
+08:45:40.499 I <65 · MyImage PicLoader 481#> [ModLoader] 加载器 LoaderDownload 文件下载 482# 状态改变：Loading
+08:45:40.507 I <67 · MyImage PicLoader 486#> [ModLoader] 加载器 LoaderDownload 文件下载 487# 状态改变：Loading
+08:45:40.511 I <68 · MyImage PicLoader 491#> [ModLoader] 加载器 LoaderDownload 文件下载 492# 状态改变：Loading
+08:45:40.529 I <71 · 下载 489/488/496#> [ModNet] 6552045285663478188.png：开始，起始点 0，https://cdn.modrinth.com/data/l9m9tuPN/fefe3f67c37744344d100638452c7bf059d586a1_96.webp
+08:45:40.529 I <70 · 下载 484/483/495#> [ModNet] 13590179735886536878.png：开始，起始点 0，https://cdn.modrinth.com/data/5FFgwNNP/e7f9ee2e9d361623847853fe2ddce42f519ee64f.png
+08:45:40.529 I <72 · 下载 494/493/497#> [ModNet] 9902763895344889013.png：开始，起始点 0，https://cdn.modrinth.com/data/1KVo5zza/d8152911f8fd5d7e9a8c499fe89045af81fe816e_96.webp
+08:45:40.702 I <64 · 下载 476/475/480#> [ModNet] 3205113799589399293.png：文件大小 7168（7 K）
+08:45:40.702 I <64 · 下载 476/475/480#> [ModNet] 3205113799589399293.png：已完成
+08:45:40.703 I <64 · 下载 476/475/480#> [ModLoader] 加载器 LoaderDownload 文件下载 474# 状态改变：Finished
+08:45:40.712 I <72 · 下载 494/493/497#> [ModNet] 9902763895344889013.png：文件大小 9006（8.79 K）
+08:45:40.720 I <70 · 下载 484/483/495#> [ModNet] 13590179735886536878.png：文件大小 4891（4.78 K）
+08:45:40.720 I <71 · 下载 489/488/496#> [ModNet] 6552045285663478188.png：文件大小 15526（15.2 K）
+08:45:40.733 I <70 · 下载 484/483/495#> [ModNet] 13590179735886536878.png：已完成
+08:45:40.734 I <70 · 下载 484/483/495#> [ModLoader] 加载器 LoaderDownload 文件下载 482# 状态改变：Finished
+08:45:40.752 I <72 · 下载 494/493/497#> [ModNet] 9902763895344889013.png：已完成
+08:45:40.752 I <72 · 下载 494/493/497#> [ModLoader] 加载器 LoaderDownload 文件下载 492# 状态改变：Finished
+08:45:40.786 I <71 · 下载 489/488/496#> [ModNet] 6552045285663478188.png：已完成
+08:45:40.786 I <71 · 下载 489/488/496#> [ModLoader] 加载器 LoaderDownload 文件下载 487# 状态改变：Finished
+08:45:47.855 I [MyRadioButton] 按下单选按钮：设置
+08:45:47.902 I [FormMain] 切换主要页面：Setup, -1
+08:45:59.174 I [MyRadioButton] 按下单选按钮：下载
+08:45:59.175 I [FormMain] 切换主要页面：Download, -1
+08:46:00.062 I [MyRadioButton] 按下单选按钮：启动
+08:46:00.063 I [FormMain] 切换主要页面：Launch, -1
+08:46:01.198 I [MyRadioButton] 按下单选按钮：下载
+08:46:01.199 I [FormMain] 切换主要页面：Download, -1
+08:46:02.646 I [MyRadioButton] 按下单选按钮：启动
+08:46:02.646 I [FormMain] 切换主要页面：Launch, -1
+08:46:03.526 I [MyRadioButton] 按下单选按钮：下载
+08:46:03.526 I [FormMain] 切换主要页面：Download, -1
+08:46:04.102 I [MyListItem] 按下单选列表项：原版游戏
+08:49:12.008 I [ModLoader] 加载器 LoaderTask`2 关闭下载 状态改变：Loading
+08:49:12.009 E <48 · L/关闭下载> [ModLoader] 加载器 LoaderTask`2 关闭下载 状态改变：Failed
+08:49:12.009 W <48 · L/关闭下载> [ModLoader] 加载线程 关闭下载 出错，已完成 100%：为遵守相关法律法规，PCL 暂时不再提供 MC 下载功能，非常抱歉 qwq……
+08:49:12.009 W <48 · L/关闭下载> [ModLoader]    在 PCL.PageDownloadInstall._Closure$__._Lambda$__3-0
+08:49:12.009 W <48 · L/关闭下载> [ModLoader]    在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0
+08:51:51.999 I [MyIconButton] 按下图标按钮：BtnTitleClose
+08:51:52.003 I [FormMain] 收到关闭指令
+08:51:52.238 I [FormMain] 程序已退出，返回值：Success
